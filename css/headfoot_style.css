@@ -33,7 +33,7 @@ body{font-family: 'NanumSquareRound'; font-size: 20px; line-height: 25px; color:
 
 /* 헤더 */
 header{position: relative; width: 100%; height: 185px;}
-.mainlogo{width: 130px; height: 170; position: absolute; top: 10px; left: 50%; transform: translateX(-40%);}
+.mainlogo{width: 130px; height: 170px; position: absolute; top: 10px; left: 50%; transform: translateX(-40%);}
 .mainlogo a{display: block; position: absolute; transition: all 1s;}
 .hide{left: 5px;}
 .mainlogo a:nth-child(2){opacity: 0;}
