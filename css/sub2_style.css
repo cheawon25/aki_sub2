@@ -26,6 +26,7 @@ section{background: url(../images/bg.png) no-repeat; background-size: cover; hei
 #section_inner{width: 1020px; margin: auto; padding-top: 50px;}
 .nav{font-size: 18px; font-weight: bold; float: right;}
 .nav a{color: #332420;}
+.navpoint{color: #f26b5e;}
 .MENU{font-size: 50px; color: #332420; font-family: 'CookieRunOTF-Bold'; line-height: 50px; text-transform: uppercase;}
 .MENU_p{font-size: 22px; color: #5d423b; font-family: 'CookieRun-Regular'; padding-top: 10px;}
 /* 팝업창 꾸미기 */
