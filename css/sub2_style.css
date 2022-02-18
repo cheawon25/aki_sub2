@@ -27,7 +27,7 @@ section{background: url(../images/bg.png) no-repeat; background-size: cover; hei
 .nav{font-size: 18px; font-weight: bold; float: right;}
 .nav a{color: #332420;}
 .navpoint{color: #f26b5e;}
-.MENU{font-size: 50px; color: #332420; font-family: 'CookieRunOTF-Bold'; line-height: 50px; text-transform: uppercase;}
+.MENU{font-size: 50px; color: #5d423b; font-family: 'CookieRunOTF-Bold'; line-height: 50px; text-transform: uppercase; text-shadow: 4px 2px rgba(93, 66, 59, 0.2);}
 .MENU_p{font-size: 22px; color: #5d423b; font-family: 'CookieRun-Regular'; padding-top: 10px;}
 /* 팝업창 꾸미기 */
 .popup{position: absolute; display: none;}
