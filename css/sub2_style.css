@@ -54,4 +54,6 @@ section{background: url(../images/bg.png) no-repeat; background-size: cover; hei
 .sizeinfo:hover{background-color: #f48473;}
 .sizeinfo:hover a{color: #ffeee9;}
 .MENU_md li:first-child{padding: 100px 0 30px;}
+.MENU_md li:nth-child(4){padding: 103px 0 30px;}
+.MENU_md li:nth-child(5){padding: 107px 0 30px;}
 .travelbowl{padding-top: 174.5px;}
