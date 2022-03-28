@@ -1,0 +1,43 @@
+*{margin: 0; padding: 0;}
+
+/* 배너 */
+#banner{width: 100%; margin: auto; overflow: hidden; box-sizing: border-box; background-size: cover; position: relative;}
+video{width: 100%;}
+
+/* 컨텐츠 */
+section{background: url(../images/bg.png) no-repeat; background-size: cover; height: 1200px;}
+#section_inner{width: 1020px; margin: auto; padding-top: 50px;}
+.nav{font-size: 18px; font-weight: bold; float: right;}
+.nav a{color: #5d423b;}
+.navpoint{color: #f26b5e;}
+.MENU{font-size: 50px; color: #5d423b; font-family: 'CookieRunOTF-Bold'; line-height: 50px; text-transform: uppercase; text-shadow: 4px 2px rgba(93, 66, 59, 0.2);}
+.MENU_p{font-size: 22px; color: #5d423b; font-family: 'CookieRun-Regular'; padding-top: 10px;}
+/* 팝업창 꾸미기 */
+.popup{position: absolute; display: none;}
+
+/* tap 안 */
+#tab01 img{display: block; padding: 50px 160px;}
+/* 메뉴박스&메뉴상세 */
+.MENUBOX{height: 280px; box-sizing: border-box;}
+.MENUBOX img{display: inline-block;}
+.MENUBOX li{float: left; width: 180px; height: 230px; background-color: #fefefa; border-radius: 90px 90px 10px 10px; text-align: center; padding: 50px 0 30px; margin: 25px 20px; box-sizing: border-box; opacity: 0.6;}
+.MENUBOX li:nth-child(2n){margin: 25px 0;}
+.MENUBOX li:hover{opacity: 1;}
+.MENUBOX .on{opacity: 1;}
+.menu_detail div{float: left; background-color: #fefefa;}
+.tab00_inner, .inner_right{width: 510px; height: 620px; text-align: center; box-sizing: border-box;}
+.inner_right{position: relative;}
+.tab00_inner{padding: 109.5px 0;}
+.inner_right{padding-top: 200px;}
+.menu_detail img{display: inline-block;}
+.eng{font-size: 15px; line-height: 15px; padding: 15px 0;}
+.inner_right h1{font-size: 40px; line-height: 40px; padding-bottom: 20px;}
+.sizeinfo{border: 0; background-color: #ffeee9;  border-radius: 20.5px; width: 138px; height: 41px;  position: absolute; right: 20px; bottom: 50px; font-weight: bold; font-family: 'NanumSquareRound';}
+.sizeinfo a{display: block; color: #f48473; font-size: 20px;}
+.sizeinfo:hover{background-color: #f48473;}
+.sizeinfo:hover a{color: #ffeee9;}
+.MENU_md li:first-child{padding: 100px 0 30px;}
+.MENU_md li:nth-child(2){padding: 40px 0 30px;}
+.MENU_md li:nth-child(3){padding: 103px 0 30px;}
+.MENU_md li:nth-child(5){padding: 61px 0 30px;}
+.travelbowl{padding-top: 174.5px;}
